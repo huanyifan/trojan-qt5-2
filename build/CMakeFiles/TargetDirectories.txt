@@ -1,0 +1,2 @@
+/home/iyifan/trojan-qt5/Trojan-Qt5-1.4.0/build/CMakeFiles/rebuild_cache.dir
+/home/iyifan/trojan-qt5/Trojan-Qt5-1.4.0/build/CMakeFiles/edit_cache.dir
